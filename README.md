@@ -7,11 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skick1234&hide=css&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="skick1234" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=skick1234&label=Profile%20views&color=0e75b6&style=flat-square" alt="skick1234" />
+ 
+  <h1>Public Projects</h1> 
+  
+  | Project           | URL                        | Description                                         |
+  |:-----------------:|:--------------------------:|:---------------------------------------------------:|
+  | DisTube Bot       | https://skick.xyz/DisTube  | A Discord Music Bot                                 |
+  | DisTube           | https://distube.js.org     | A Discord.js module to manage music commands easier |
+  | Skick Is Impostor | https://skick.xyz/Impostor | An Among Us Custom Server in Vietnam                |
 </div>
-
-# Public Projects
-| Project           | URL                        | Description                                         |
-|:-----------------:|:--------------------------:|:---------------------------------------------------:|
-| DisTube Bot       | https://skick.xyz/DisTube  | A Discord Music Bot                                 |
-| DisTube           | https://distube.js.org     | A Discord.js module to manage music commands easier |
-| Skick Is Impostor | https://skick.xyz/Impostor | An Among Us Custom Server in Vietnam                |
