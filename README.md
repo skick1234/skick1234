@@ -14,5 +14,5 @@
   |:-----------------:|:--------------------------:|:---------------------------------------------------:|
   | DisTube Bot       | https://skick.xyz/DisTube  | A Discord Music Bot                                 |
   | DisTube           | https://distube.js.org     | A Discord.js module to manage music commands easier |
-  | Skick Is Impostor | https://skick.xyz/Impostor | An Among Us Custom Server in Vietnam                |
+  | Bio               | https://bio.skick.xyz/     | A Simple Bio Site                                   |
 </div>
